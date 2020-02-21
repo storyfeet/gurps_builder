@@ -1,0 +1,23 @@
+{
+  "name": "dnd2",
+  "version": "1.0.0",
+  "description": "Track or other rpg properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dnd",
+    "rpg",
+    "game",
+    "track"
+  ],
+  "author": "Matt Stoodley",
+  "license": "MIT",
+  "dependencies": {
+    "npm": "^6.13.7"
+  },
+  "devDependencies": {
+    "@types/node": "^13.7.4"
+  }
+}
