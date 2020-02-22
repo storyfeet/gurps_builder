@@ -1,0 +1,32 @@
+{ "traits":{
+        "Acute Sense":{
+            "tx":"+1 to perceptions appropriate perception per level",
+            "select":["taste and smell","sight","hearing"],
+            "cost":2,
+            "level":2,
+            "tags":["perception"]
+        },
+        "Ambidextrous":{
+            "tx":"fight with both hands equally no offhand cost",
+            "cost":5,
+            "tags":["dex","atk"]
+        },
+        "Animal Empathy":{
+            "tx":"In situation dealing with animals the GM rolls against IQ to tell you if you ca sense the animals feelings/state. May also use your influence about",
+            "cost":5,
+            "tags":["animal"]
+        },
+        "Cat Fall":{
+            "tx":"Subtract 5 from fall height. Also a successful DX roll halves damage from falls. Must have free limbs to use",
+            "cost":10,
+            "tags":["dex","fall"]
+        },
+        "Combat Reflexes":{
+            "tx":"You have extroodinary reactions and are rarely surprised. +1 to all active defense rolls and +2 to fright checks",
+            "cost":15,
+            "tags":["def","fight","fright","freeze"]
+        }
+}}
+
+
+
